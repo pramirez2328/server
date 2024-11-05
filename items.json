@@ -1,0 +1,26 @@
+{
+  "fruits": [
+    { "id": 1, "name": "Apple", "category": "Fruit" },
+    { "id": 2, "name": "Banana", "category": "Fruit" },
+    { "id": 3, "name": "Orange", "category": "Fruit" },
+    { "id": 4, "name": "Grape", "category": "Fruit" },
+    { "id": 5, "name": "Mango", "category": "Fruit" },
+    { "id": 6, "name": "Pineapple", "category": "Fruit" },
+    { "id": 7, "name": "Strawberry", "category": "Fruit" },
+    { "id": 8, "name": "Blueberry", "category": "Fruit" },
+    { "id": 9, "name": "Peach", "category": "Fruit" },
+    { "id": 10, "name": "Kiwi", "category": "Fruit" }
+  ],
+  "vegetables": [
+    { "id": 1, "name": "Carrot", "category": "Vegetable" },
+    { "id": 2, "name": "Broccoli", "category": "Vegetable" },
+    { "id": 3, "name": "Spinach", "category": "Vegetable" },
+    { "id": 4, "name": "Potato", "category": "Vegetable" },
+    { "id": 5, "name": "Pepper", "category": "Vegetable" },
+    { "id": 6, "name": "Cauliflower", "category": "Vegetable" },
+    { "id": 7, "name": "Tomato", "category": "Vegetable" },
+    { "id": 8, "name": "Cucumber", "category": "Vegetable" },
+    { "id": 9, "name": "Zucchini", "category": "Vegetable" },
+    { "id": 10, "name": "Onion", "category": "Vegetable" }
+  ]
+}
